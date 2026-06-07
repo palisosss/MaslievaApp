@@ -1,0 +1,11 @@
+[
+  {
+    "id": "bfffa8c1-2fd6-49a9-a05b-049de3232ec6",
+    "title": "Сумма двух чисел",
+    "language": "JAVA",
+    "description": "Программа должна считать два числа и вывести их сумму.",
+    "testInput": "2 3",
+    "expectedOutput": "5",
+    "maxScore": 10
+  }
+]
